@@ -5,7 +5,7 @@ import numpy as np
 import torch
 from torchvision import models
 from io import BytesIO
-from utils.download_knee_model import download_knee_model
+from download_knee_model import download_knee_model
 import uvicorn
 
 
